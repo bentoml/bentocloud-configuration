@@ -1,0 +1,20 @@
+{
+  "certified_bento_repositories":
+  [
+		{
+			"org_name":  "multi-tenancy",
+			"repo_name": "linear_regression",
+			"versions": ["vlilv4cmmwpdhduh", "uw7w4esmmwulfduh"]
+		},
+		{
+			"org_name":  "multi-tenancy",
+			"repo_name": "yolo_v5_demo",
+			"versions": ["nitlkbcmmw5adduh"]
+		},
+		{
+			"org_name":  "multi-tenancy",
+			"repo_name": "iris_classifier",
+			"versions": ["tmhzzxcxckbwlduh", "w47zocslas7yfduh", "32vwruslascbbduh"]
+		}
+  ]
+}
